@@ -32,4 +32,5 @@ PrivaPay abstracts the complexity of stealth transactions into a seamless, Web2-
     Employee->>UI: Connects Wallet & Provides Viewing Key
     UI->>UI: Scans chain & locally decrypts matching stealth transactions
     UI->>Employee: Generates ZK "Salary Proof" (Verifiable PDF/JSON)
-    ```
+
+```
