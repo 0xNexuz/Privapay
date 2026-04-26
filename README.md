@@ -15,7 +15,7 @@ PrivaPay allows employers to execute payments to **one-time stealth addresses** 
 PrivaPay abstracts the complexity of stealth transactions into a seamless, Web2-style SaaS dashboard. Here is how the cryptographic flow works under the hood:
 
 ```mermaid
-sequenceDiagram
+  sequenceDiagram
     autonumber
     actor Employer
     participant UI as PrivaPay Client (Next.js)
